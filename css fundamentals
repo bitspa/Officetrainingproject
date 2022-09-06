@@ -1,22 +1,35 @@
 <!DOCTYPE html>
 <meta charset="utf-8">
-    <link rel="stylesheet" type="text/css" href="html2.css">
+    <style>
+        .new p{
+   text-decoration: none;
+    color: red;
+    padding: 10px 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
+#newall{
+    text-decoration: none;
+    color: green;
+    padding: 10px 10px;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+    </style>
 <body>
     <div class="new">
         <p>Philip's younger sister of about twelve at the beginning of the series. Like her brother, she has a tuft of hair standing up atop her head, but she shares neither his gift in attracting, nor his love for, animals, especially the small creeping types (mice, insects, snakes etc.). Temperamental as she is, she often finds herself the target of her brother's teasing, but otherwise she is quite level-headed, tough, intelligent and grown-up for her age.</p>
     </div>
     <div class="new">
         <p>Jack's little sister is the youngest of the foursome (about 11 at the beginning of the series) and also the most timid one. Like her brother, she has red hair, green eyes and freckles, and in several instances she is described as very pretty. Lucy-Ann is very affectionate towards the people she loves, particularly her brother Jack, though sometimes she is a little jealous that Jack seems to love birds more than her. She also loves her adopted "parents" Bill and Mrs Mannering very much, is Dinah's best friend, and quite fond of Philip.</p>
-    </div>
-    <div class="new">
         <p>His most prominent bodily feature is his half-bald head. He meets the children upon their very first adventure and makes regular appearances in the series from that point on. Mostly the children get tangled up in adventures which are connected with Bill's work at the time and end up solving them for him.
             Following the events in The Ship of Adventure, Bill marries Mrs Mannering and adopts all the children as his own. The children call him Bill Smugs due to the fact that he introduced himself under that alias on their first adventure.</p>
-    </div>
-    <div class="new">
         <p>Philip and Dinah's mother is a widow (not much is revealed about her late husband, only that he seems to have possessed the same animal-charming ability Philip demonstrates throughout the series), and like her children she has a tuft of hair upon the top of her head. At first she adopts Jack and Lucy-Ann into her family, providing them a loving home; later she marries their common friend Bill and finds a new family with all of them. She is affectionately called "Aunt Allie" by Jack and especially by Lucy-Ann</p>
-    </div>
-    <div class="hello">
-        <p>Jack's little sister is the youngest of the foursome (about 11 at the beginning of the series) and also the most timid one. Like her brother, she has red hair, green eyes and freckles, and in several instances she is described as very pretty. Lucy-Ann is very affectionate towards the people she loves, particularly her brother Jack, though sometimes she is a little jealous that Jack seems to love birds more than her. She also loves her adopted "parents" Bill and Mrs Mannering very much, is Dinah's best friend, and quite fond of Philip</p>
+    
+    
+        <p id="newall">Jack's little sister is the youngest of the foursome (about 11 at the beginning of the series) and also the most timid one. </p>
     </div>
 </body>
     </html>
