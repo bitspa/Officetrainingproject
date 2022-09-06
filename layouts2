@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+    .container{
+        display:grid;
+    }
+    .grid-items{
+        background-color: rgb(242, 141, 63);
+        border: 5px solid black;
+        height:100px;
+        width:100px;
+        margin-left: 190px;
+        margin-top:300px;
+    }
+    .g-items{
+        background:cyan;
+        height:700px;
+        width:500px;
+        margin-left: 30em;
+        border: 5px solid black;
+        text-align: center;
+    }
+    .box5{
+  position:absolute;
+  height:100px;
+  width:100px;
+  background-color: rgb(242, 141, 63);
+  border: 5px solid black;
+  margin-top:10em;
+  margin-left:0px;
+  padding: 10px;
+    }
+    .box6{
+  position:absolute;
+  height:100px;
+  width:100px;
+  background-color: rgb(242, 141, 63);
+  border: 5px solid black;
+  margin-left:86em;
+  margin-top:10em;
+  padding: 10px;
+    }
+    .box7{
+  position:absolute;
+  height:100px;
+  width:100px;
+  background-color: rgb(242, 141, 63);
+  border: 5px solid black;
+  margin-bottom:0px;
+  margin-right:0px;
+  padding: 10px;
+    }
+    .box8{
+  position:absolute;
+  height:100px;
+  width:100px;
+  background-color: rgb(242, 141, 63);
+  border: 5px solid black;
+  margin-bottom: 200em;
+  margin-left:86em;
+  padding: 10px;
+    }
+    .box9{
+  position:absolute;
+  height:100px;
+  width:100px;
+  background-color: rgb(242, 141, 63);
+  border: 5px solid black;
+  margin-top:  -18px;
+  margin-left: 1px;
+  padding: 10px;
+    }
+    .box10{
+  position:absolute;
+  height:100px;
+  width:100px;
+  background-color: rgb(242, 141, 63);
+  border: 5px solid black;
+  margin-top: -18px;
+  margin-left: 370px;
+  padding: 10px;
+    }
+    .box11{
+  position:absolute;
+  height:100px;
+  width:100px;
+  background-color: rgb(242, 141, 63);
+  border: 5px solid black;
+  margin-top:  551px;
+  margin-left: 1px;
+  padding: 10px;
+    }
+    .box12{
+  position:absolute;
+  height:100px;
+  width:100px;
+  background-color: rgb(242, 141, 63);
+  border: 5px solid black;
+  margin-top: 551px;
+  margin-left: 370px;
+  padding: 10px;
+    }
+    </style>
+    <body>
+        <div class="box7"></div>
+        <div class="box8"></div>
+        <div class="container">
+            <div class="g-items">Box1
+                <div class="box9"></div>
+                <div class="box10"></div>
+                <div class="box11"></div>
+                <div class="box12"></div>
+            <div class="grid-items">Box2</div>
+            </div>
+            </div>
+            <div class="box5"></div>
+            <div class="box6"></div>
+    </body>
+
+</html>
