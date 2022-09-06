@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="html1.css">
+<head>
+    <h1><center>SPANDITA BANERJEE</center></h1>
+    </head>
+    <body>
+        <div class="logo">
+            <span>
+        <h1><center>SPANDITA BANERJEE</center></h1>
+    </span>
+    </div>
+    <br> <br>
+    <section class="vision">
+        <div class="regular">
+           <h1><center>Jack Trent</center></h1>
+           <h2>By-Enid Blyton</h2>
+        </div>
+    <div class="pol">
+        <p>A boy about Philip's age, who has <span2>red </span2>hair, <span2>green </span2>eyes and many <span2>freckles </span2>on his face, the latter of which earning him the nickname "Freckles" from Philip. He and his sister Lucy-Ann are orphans and used to live with an <span2> unfriendly </span2>uncle until they are adopted by Mrs Mannering. Jack has a special <span2> passion </span2>for birds, and spends most of his time observing them. His greatest dream is becoming an ornithologist. He loves Mrs Mannering very much and cares <span2> greatly </span2>about his sister Lucy-Ann. Following his first<span2> adventure</span2>, Jack nearly always carries a rope and his field glasses, among other things, as basic equipment.</p>
+    </div>
+    </section>
+    <div>
+        <h1>Feature Links</h1>
+        <br>
+        <a href="https://www.youtube.com/watch?v=25-E9oXaQ48&t=8s">Link1</a><br>
+        <a href="https://www.facebook.com/TIB2012">Link2</a><br>
+    </div>
+    <br>
+    <br>
+    <div class="m-images">
+        <h1>Photo1</h1>
+        <div class="box1">
+            <img src="photo3.jfif" height="200px" width="200px">
+        </div>
+    </div>
+    <br>
+    <br>
+    <div class="m-images">
+        <h1>Photo2</h1>
+        <div class="box1">
+            <img src="photo4.jfif" height="200px" width="200px">
+        </div>
+    </div>
+    <br>
+    <br>
+    <div class="m-images">
+        <h1>Photo3</h1>
+        <div class="box1">
+            <img src="photo5.jfif" height="200px" width="200px">
+        </div>
+    </div>
+    <br>
+    <br>
+    <div class="m-images">
+        <h1>Photo4</h1>
+        <div class="box1">
+            <img src="photo6.jfif" height="200px" width="200px">
+        </div>
+    </div>
+    <br>
+    <br>
+    <div class="m-images">
+        <h1>Photo5</h1>
+        <div class="box1">
+            <img src="tib photo.jpg" height="200px" width="200px">
+        </div>
+    </div>
+    <br>
+    <br>
+    </body>
+    </html>
