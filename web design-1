@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+
+<style>
+    body{
+        background-color: #edeef6;
+        font-family:"Poppins",sans-serif;
+        display:flex;
+        align-items:center;
+        justify-content: center;
+        min-height:100vh;
+        margin:0;
+    }
+    button{
+        font-size:14px;
+        padding: 10px 25px;
+    }
+    button a{
+        text-decoration:none;
+        color: blueviolet;
+    }
+    button i{
+        color:red;
+    }
+    .modal-container{
+        background-color:rgba(0,0,0,0.3);
+        position:fixed;
+        display:flex;
+        align-items:center;
+        justify-content: center;
+        top:0;
+        left:0;
+        height:100vh;
+        width: 100vw;
+        cursor: pointer;
+    }
+    .modal{
+        background-color:white;
+        width: 600px;
+        max-width:100%;
+        padding:30px 50px;
+        box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+        text-align: center;
+        border-radius:5px;
+    }
+    .modal p{
+        opacity:0.7;
+    }
+</style>
+
+<link rel="stylesheet" type="text/css"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<div class="modal-container" id="modal-container">
+    <div class="modal">
+        <h1>Enid Blyton</h1>
+      <p>
+        Enid Blyton was born on 11 August 1897 in East Dulwich, South London, United Kingdom, the eldest of three children, to Thomas Carey Blyton (1870–1920), a cutlery salesman (recorded in the 1911 census with the occupation of "Mantle Manufacturer dealer [in] women's suits, skirts, etc.") and his wife Theresa Mary (née Harrison; 1874–1950). Enid's younger brothers, Hanly (1899–1983) and Carey (1902–1976), were born after the family had moved to a semi-detached house in Beckenham, then a village in Kent.[1] A few months after her birth, Enid almost died from whooping cough, but was nursed back to health by her father, whom she adored.[2] Thomas Blyton ignited Enid's interest in nature; in her autobiography she wrote that he "loved flowers and birds and wild animals, and knew more about them than anyone I had ever met".[3] He also passed on his interest in gardening, art, music, literature, and theatre, and the pair often went on nature walks, much to the disapproval of Enid's mother, who showed little interest in her daughter's pursuits.[4] Enid was devastated when he left the family shortly after her 13th birthday to live with another woman. Enid and her mother did not have a good relationship, and she did not attend either of her parents' funerals
+      </p>
+      <button id="close">
+        <a href="modals2.html">Close&nbsp<i class="fa fa-close"></i>
+      </button>
+    </div>
+</div>
+</html>
