@@ -5,7 +5,6 @@
         display:grid;
     }
     .grid-items{
-        background-color: rgb(242, 141, 63);
         border: 5px solid black;
         height:100px;
         width:100px;
@@ -13,7 +12,6 @@
         margin-top:300px;
     }
     .g-items{
-        background:cyan;
         height:700px;
         width:500px;
         margin-left: 30em;
@@ -24,7 +22,6 @@
   position:absolute;
   height:100px;
   width:100px;
-  background-color: rgb(242, 141, 63);
   border: 5px solid black;
   margin-top:10em;
   margin-left:0px;
@@ -34,7 +31,6 @@
   position:absolute;
   height:100px;
   width:100px;
-  background-color: rgb(242, 141, 63);
   border: 5px solid black;
   margin-left:86em;
   margin-top:10em;
@@ -44,7 +40,6 @@
   position:absolute;
   height:100px;
   width:100px;
-  background-color: rgb(242, 141, 63);
   border: 5px solid black;
   margin-bottom:0px;
   margin-right:0px;
@@ -54,7 +49,6 @@
   position:absolute;
   height:100px;
   width:100px;
-  background-color: rgb(242, 141, 63);
   border: 5px solid black;
   margin-bottom: 200em;
   margin-left:86em;
@@ -64,7 +58,6 @@
   position:absolute;
   height:100px;
   width:100px;
-  background-color: rgb(242, 141, 63);
   border: 5px solid black;
   margin-top:  -18px;
   margin-left: 1px;
@@ -74,7 +67,6 @@
   position:absolute;
   height:100px;
   width:100px;
-  background-color: rgb(242, 141, 63);
   border: 5px solid black;
   margin-top: -18px;
   margin-left: 370px;
@@ -84,7 +76,6 @@
   position:absolute;
   height:100px;
   width:100px;
-  background-color: rgb(242, 141, 63);
   border: 5px solid black;
   margin-top:  551px;
   margin-left: 1px;
@@ -94,7 +85,6 @@
   position:absolute;
   height:100px;
   width:100px;
-  background-color: rgb(242, 141, 63);
   border: 5px solid black;
   margin-top: 551px;
   margin-left: 370px;
