@@ -1,23 +1,6 @@
 <!DOCTYPE html>
 <meta charset="utf-8">
-    <style>
-        .new p{
-   text-decoration: none;
-    color: red;
-    padding: 10px 10px;
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 25px;
-}
-#newall{
-    text-decoration: none;
-    color: green;
-    padding: 10px 10px;
-    font-style: italic;
-    font-weight: bold;
-    font-size: 15px;
-}
-
-    </style>
+<link rel="stylesheet" type="text/css" href="cssfundamentals.css">
 <body>
     <div class="new">
         <p>Philip's younger sister of about twelve at the beginning of the series. Like her brother, she has a tuft of hair standing up atop her head, but she shares neither his gift in attracting, nor his love for, animals, especially the small creeping types (mice, insects, snakes etc.). Temperamental as she is, she often finds herself the target of her brother's teasing, but otherwise she is quite level-headed, tough, intelligent and grown-up for her age.</p>
