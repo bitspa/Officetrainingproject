@@ -4,10 +4,8 @@
 .box {
   height:700px;
   width:500px;
-  display:flex;
   border: 5px solid black;
   padding:10px;
-  margin-left: 35em;
   margin:auto;
   }
   .box h4{
@@ -15,7 +13,7 @@
     align-items:center;
     justify-content: center;
   }
-  .box1{
+  #box1{
   position:relative;
   height:100px;
   width:100px;
@@ -24,7 +22,7 @@
   display:flex;
   align-items: center;
   justify-content: center;
-  margin-left: 150px;
+  margin:auto;
   margin-top: 300px;
   }
   .box3 {
@@ -33,7 +31,7 @@
   float:none;
   border: 5px solid black;
   padding:10px;
-  margin-left: 30.7em;
+  margin:auto;
   }
   .box h4{
     text-align:center;
@@ -46,13 +44,13 @@
   border: 5px solid black;
   padding: 10px;
   float:none;
-  margin-left: 200px;
+  margin:auto;
   margin-top: 250px;
   } 
 </style>
 <body>
     <div class="box"><h4>Box-1</h4>
-    <div class="box1"><h4>Box-2</h4>
+    <div id="box1"><h4>Box-2</h4>
     </div>
 </div>
 <br>
