@@ -1,0 +1,39 @@
+ .cover {
+    width: 500px;
+    height: 500px;
+    padding: 1px;
+    margin-top: 50px;
+    margin-left: 350px;
+    align-items: center;
+    justify-items: center;
+    text-align: center;
+    display: flex;
+}
+
+.box {
+    margin: 250px;
+    width: 300px;
+    height: 450px;
+    box-shadow: -1px 0 30px #000000;
+    border-radius: 20px;
+    align-items: center;
+    justify-items: center;
+    text-align: center;
+}
+
+.cover img {
+    cursor: pointer;
+    border-radius: 20px;
+    transition: 0.4s ease-in-out;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.box p {
+    width: 100%;
+    font-size: 1em;
+    line-height: 1.5em;
+    opacity: 70%;
+}
