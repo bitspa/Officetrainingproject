@@ -1,0 +1,33 @@
+  .logo span {
+    color: rgb(0, 139, 90);
+    font-size: 30px;
+}
+.regular h1{
+    color: rgb(27, 80, 80);
+    font-size: 40px;
+    text-decoration: underline;
+}
+.regular h2{
+    color: rgb(27, 80, 80);
+    font-size: 20px;
+    text-align: center;
+    text-decoration: underline;
+}
+.pol p{
+    text-decoration: none;
+    color: black;
+    padding: 10px 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
+.pol span2 {
+    font-style: italic; 
+    font-weight:bold;
+    color:red;
+}
+.m-images h1 {
+    text-align: center;
+}
+.box1{
+    text-align: center;
+}
