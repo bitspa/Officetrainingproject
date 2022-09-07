@@ -1,0 +1,20 @@
+
+    .container{
+        display:grid;
+    }
+    .grid-items{
+        border: 5px solid black;
+        height:100px;
+        width:100px;
+        margin:auto;
+        margin-top:300px;
+    }
+    .g-items{
+        height:700px;
+        width:500px;
+        margin: auto;
+        border: 5px solid black;
+        text-align: center;
+    }
+   
+   
