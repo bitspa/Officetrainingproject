@@ -1,0 +1,44 @@
+.parent{
+    background-color:blueviolet;
+    height:550px;
+    width:500px;
+    margin:auto;
+}
+.child{
+    background-color:brown;
+    height:300px;
+    width: 250px;
+    left:0;
+    top:0;
+    position:relative;
+    animation-name:spandita2;
+    animation-duration: 12s;
+    animation-iteration-count:infinite; 
+    animation-timing-function: ease-in;
+}
+@keyframes spandita2{
+    25%{
+        left:0;
+        bottom:0;
+    }
+    25%{
+        top:250px;
+        right:0;
+    }
+    50%{
+        left:250px;
+        top:250px;
+    }
+    75%{
+        right:0;
+        top:0;
+    }
+    75%{
+        bottom:250px;
+        left:0;
+    }
+    75%{
+        left:250px;
+        top:0;
+    }
+}
