@@ -3,9 +3,7 @@
 <link rel="stylesheet" type="text/css" href="layout2.css">
     <body>
         <div class="container">
-            <div class="g-items">Box1
-            <div class="grid-items">Box2</div>
-            </div>
+            <div class="grid-items"></div>
             </div>
     </body>
 
