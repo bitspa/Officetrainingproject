@@ -1,0 +1,509 @@
+.bgimg {
+    background-image: url('https://www.exercise.co.uk/wp/wp-content/uploads/2019/04/4-week-treadmill-workout-banner.jpg');
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    width: 100%;
+    height: 760px;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+::-webkit-scrollbar{
+    width: 12px;
+}
+::-webkit-scrollbar-track{
+    background:white;
+    border-radius: 40em;
+    
+}
+::-webkit-scrollbar-thumb{
+    background:black;
+    
+    border-radius: 40em;
+}
+::-webkit-scrollbar-thumb:hover{
+    background: #dc3545;
+}
+
+.headerset {
+    padding-top: 250px;
+    box-sizing: border-box;
+}
+#rita{
+    font-size: 2em;
+    font-weight: bold;
+}
+.headerset h1 {
+    font-weight: bold;
+}
+
+.navbar-brand {
+    font-family: cursive;
+}
+
+.about {
+    height: 700px;
+    padding: 100px 0px 60px;
+    width: 100%;
+}
+
+.about h1 {
+    font-size: 3em;
+    font-weight: bold;
+}
+
+.about span {
+    color: #dc3545;
+}
+
+.he {
+
+    width: 100%;
+    height: 100vh;
+    text-align: left;
+    text-decoration: none;
+    margin-top: 150px;
+
+    padding: 30px 50px;
+}
+
+.he1 {
+
+    width: 100%;
+    height: 100vh;
+    text-align: left;
+    text-decoration: none;
+    margin-top: 150px;
+
+    padding: 30px 50px;
+    font-size: 50px;
+    font-family: Gill Sans MT;
+    color: rgb(31, 30, 30);
+}
+
+
+.he1 p {
+    font-size: 20px;
+    font-family: Gill Sans MT;
+    opacity: 80%;
+}
+
+.box {
+    height: 27.5em;
+    width: 35em;
+    margin: auto;
+    padding-top: 2em;
+    padding-left: 2em;
+    background-color: #dc3545;
+}
+
+.box1 {
+    width: 35em;
+    position: relative;
+
+}
+
+.he1 h3 span {
+    font-size: 1em;
+    color: #dc3545;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#ourservices {
+    padding: 100px 0px 60px;
+    height: 700px;
+    
+}
+
+.rowsetting {
+    margin: 80px 0px;
+}
+
+.portfolio {
+    height: 1100px;
+    width: 100%;
+    padding: 100px 0px 50px;
+}
+
+.portfolio h1 {
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.card {
+    margin-top: 40px;
+}
+
+#allneed span {
+    color: #dc3545;
+    font-size: 1em;
+}
+
+#needU {
+    margin: 80px 0px;
+}
+
+.card-icon i {
+    background: white;
+    color: black;
+    font-size: 23px;
+    padding: 5px;
+    margin: 15px 5px;
+    border-radius: 50%;
+    transition: 0.4s ease;
+}
+
+.card-icon i:hover {
+    background: transparent;
+    color: #dc3545;
+    border: 1px solid wheat;
+}
+
+#allpol {
+    height: 500px;
+    box-shadow: -1px 0 30px #000000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#itsyou {
+    padding: 100px 0px 60px;
+    height: 900px;
+    margin: 80px 0px;
+}
+
+#all2need {
+    padding: 100px 0px 60px;
+    height: 250px;
+    margin: 80px 0px;
+    background-color: rgb(9, 9, 44);
+}
+
+#all2need {
+    color: white;
+}
+
+#all2need h1 {
+    color: white;
+    font-size: 2.5em;
+}
+
+#all3need {
+    padding: 100px 0px 60px;
+    height: 700px;
+    margin: 80px 0px;
+    background-color: rgb(9, 9, 44);
+}
+
+#all3need {
+    color: white;
+}
+
+.goal {
+    font-size: 1.2em;
+    font-family: Gill Sans MT;
+}
+
+#there span {
+    color: #dc3545;
+}
+
+#allpol25 {
+    height: 400px;
+    box-shadow: -1px 0 10px blanchedalmond;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#allpol25:hover {
+    background-color: rgb(9, 9, 44);
+    color: white;
+
+}
+
+#all501:hover {
+    background-color: rgb(9, 9, 44);
+    color: white;
+}
+.map-responsive{
+    overflow:hidden;
+    padding-bottom:50%;
+    position:relative;
+    height:0;
+}
+.map-responsive iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+}
+#toll{
+    font-size: 0.8em;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#all50:hover {
+    background-color: rgb(9, 9, 44);
+    color: white;
+}
+#tera{
+    height:600px;
+}
+#suman{
+    font-size:0.8em;
+}
+#noba {
+    padding: 100px 0px 60px;
+    height: 900px;
+    margin: 80px 0px;
+}
+
+#all4need {
+    padding: 100px 0px 60px;
+    height: 900px;
+    margin: 80px 0px;
+}
+
+#orange {
+    height: 400px;
+}
+#allkomaneed{
+    padding: 100px 0px 60px;
+    height: 900px;
+    margin: 80px 0px;
+}
+#allkomaneed5{
+        padding: 100px 0px 60px;
+        height: 1200px;
+        margin: 80px 0px;
+}
+#allkomaneed6{
+    padding: 100px 0px 60px;
+    height: 900px;
+    margin: 80px 0px;
+}
+#hols{
+    width: 18rem;
+}
+#mousumi{
+    padding: 100px 0px 60px;
+    height: 200px;
+    margin: 80px 0px;
+}
+
+#allgiraf{
+    height: 400px;
+    margin: 80px 0px;
+    padding: 100px 0px 60px;
+}
+@media(max-width:1280px) {
+    .box {
+        height: 10.5em;
+        width: 12em;
+        margin: auto;
+        padding-top: 0.8em;
+        padding-left: 1em;
+        padding-bottom:1em;
+        background-color: #dc3545;
+    }
+
+    .box1 {
+        width: 13em;
+        position: relative;
+        height: 3.5em;
+    }
+
+    #kol51 {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .portfolio {
+        height: 1200px;
+        width: 100%;
+        padding: 80px 0px 50px;
+    }
+    #ourservices {
+        height: 900px;
+        width: 100%;
+        padding: 100px 0px 50px;
+    }
+    #allpol {
+        height: 500px;
+        width: 190px;
+
+    }
+    #allpol img{
+     height:5px;
+     width:5px;
+     margin-top:20px;
+    }
+    
+    #spala{
+        font-size: 1.5em;
+    }
+    #allpol25{
+        height: 500px;
+        width:150px;  
+    }
+    #all4need{
+        padding: 100px 0px 60px;
+        height: 2500px;
+        margin: 80px 0px;
+    }
+    #allkomaneed{
+        padding: 100px 0px 60px;
+        height: 1200px;
+        margin: 80px 0px;
+    }
+    #allkomaneed5{
+        padding: 100px 0px 60px;
+        height: 2000px;
+        margin: 80px 0px;
+    }
+    #allkomaneed6{
+        padding: 100px 0px 60px;
+        height: 2500px;
+        margin: 80px 0px;
+    }
+    #hols{
+       width:10em;
+    }
+    #mousumi{
+        padding: 100px 0px 60px;
+        height: 900px;
+        margin: 80px 0px;
+    }
+    #allgiraf{
+        padding: 100px 0px 60px;
+        height: 1500px;
+        margin: 80px 0px;
+    }
+}
+
+@media(min-width:480px) and(max-width:574px) {
+    .box {
+        height: 12em;
+        width: 15em;
+        margin: auto;
+        padding-top: 1.8em;
+        padding-left: 2em;
+        background-color: #dc3545;
+    }
+
+    .box1 {
+        width: 13em;
+        position: relative;
+        height: 3.5em;
+    }
+
+    .portfolio {
+        height: 1400px;
+        width: 100%;
+        padding: 100px 0px 50px;
+    }
+
+    #ourservices {
+        height: 2000px;
+        width: 100%;
+        padding: 100px 0px 50px;
+    }
+
+    #allneed {
+        height: 3000px;
+        width: 100%;
+        padding: 100px 20px 50px;
+    }
+
+    #orange {
+        height: 400px;
+        width: 250px;
+    }
+
+    #itsyou {
+        height: 2000px;
+        width: 100%;
+        padding: 100px 0px 50px;
+    }
+
+    #all2need {
+        padding: 100px 0px 60px;
+        height: 350px;
+        margin: 80px 0px;
+        background-color: rgb(9, 9, 44);
+    }
+
+    #for4u1 {
+        margin-right: 75px;
+    }
+
+    #for4u2 {
+        margin-left: 120px;
+    }
+}
+
+@media(max-width:475px) {
+    .box {
+        height: 12em;
+        width: 15em;
+        margin: auto;
+        padding-top: 1.8em;
+        padding-left: 2em;
+        background-color: #dc3545;
+    }
+
+    .box1 {
+        width: 13em;
+        position: relative;
+        height: 3.5em;
+    }
+
+    .portfolio {
+        height: 1400px;
+        width: 100%;
+        padding: 100px 0px 50px;
+    }
+
+    #ourservices {
+        height: 2000px;
+        width: 100%;
+        padding: 100px 0px 50px;
+    }
+
+    #allneed {
+        height: 3000px;
+        width: 100%;
+        padding: 100px 20px 50px;
+    }
+
+    #orange {
+        height: 400px;
+        width: 250px;
+    }
+
+    #itsyou {
+        height: 2000px;
+        width: 100%;
+        padding: 100px 0px 50px;
+    }
+
+    #all2need {
+        padding: 100px 0px 60px;
+        height: 350px;
+        margin: 80px 0px;
+        background-color: rgb(9, 9, 44);
+    }
+
+    #for4u1 {
+        margin-right: 75px;
+    }
+
+    #for4u2 {
+        margin-left: 120px;
+    }
+}
