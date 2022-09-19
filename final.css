@@ -135,6 +135,16 @@ html {
     width: 100%;
     padding: 100px 0px 50px;
 }
+.portfolio2 {
+    height: 800px;
+    width: 100%;
+    padding: 50px 0px 50px;
+}
+.portfolio h1 {
+    font-size: 50px;
+    font-weight: bold;
+}
+
 .items{
     display:flex;
     align-items:center;
@@ -178,6 +188,7 @@ html {
 
 #allpol {
     height: 500px;
+    width:300px;
     box-shadow: -1px 0 30px #000000;
     display: flex;
     align-items: center;
@@ -288,9 +299,9 @@ html {
     height: 400px;
 }
 #allkomaneed{
-    padding: 100px 0px 60px;
-    height: 900px;
-    margin: 80px 0px;
+    padding: 50px 0px 50px;
+    height: 700px;
+    margin: 20px 0px;
 }
 #allkomaneed5{
         padding: 100px 0px 60px;
@@ -339,7 +350,7 @@ html {
         justify-content: center;
     }
 
-    .portfolio {
+    .portfolio2 {
         height: 1200px;
         width: 100%;
         padding: 80px 0px 50px;
@@ -418,18 +429,25 @@ html {
         height: 3.5em;
     }
 
-    .portfolio {
+    .portfolio2 {
         height: 1400px;
         width: 100%;
         padding: 100px 0px 50px;
     }
-
+    #all4need{
+        padding: 100px 0px 60px;
+        height: 2000px;
+        margin: 80px 0px;
+    }
     #ourservices {
         height: 2000px;
         width: 100%;
         padding: 100px 0px 50px;
     }
-
+    #allpol{
+            height: 450px;
+            width: 250px;  
+    }
     #allneed {
         height: 3000px;
         width: 100%;
@@ -453,7 +471,14 @@ html {
         margin: 80px 0px;
         background-color: rgb(9, 9, 44);
     }
-
+    #allpol25{
+        height: 400px;
+        width: 250px;  
+    }
+    #hols{
+        height: 400px;
+        width: 250px;  
+    }
     #for4u1 {
         margin-right: 75px;
     }
@@ -478,13 +503,28 @@ html {
         position: relative;
         height: 3.5em;
     }
-
-    .portfolio {
+    #all4need{
+        padding: 100px 0px 60px;
+        height: 2000px;
+        margin: 80px 0px;
+    }
+    .portfolio2 {
         height: 1400px;
         width: 100%;
         padding: 100px 0px 50px;
     }
-
+    #allpol25{
+        height: 380px;
+        width: 250px;  
+    }
+    #allpol{
+        height: 450px;
+        width: 250px;  
+    }
+    #hols{
+        height: 650px;
+        width: 250px;  
+    }
     #ourservices {
         height: 2000px;
         width: 100%;
