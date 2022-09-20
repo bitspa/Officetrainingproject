@@ -273,6 +273,11 @@ html {
     font-weight: bold;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
+#toll2{
+    font-size: 0.8em;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
 #all50:hover {
     background-color: rgb(9, 9, 44);
     color: white;
@@ -326,6 +331,9 @@ html {
     height: 400px;
     margin: 80px 0px;
     padding: 100px 0px 60px;
+}
+#toll2{
+    width:500px;
 }
 @media(max-width:1280px) {
     .box {
@@ -411,6 +419,9 @@ html {
         height: 1500px;
         margin: 80px 0px;
     }
+    #toll2{
+        width:300px;
+    }
 }
 
 @media(min-width:480px) and(max-width:574px) {
@@ -486,6 +497,15 @@ html {
     #for4u2 {
         margin-left: 120px;
     }
+    #mousumi{
+        padding: 100px 0px 60px;
+        height: 300px;
+        margin: 80px 0px;
+    }
+    #toll{
+        width:300px;
+        padding-top: 10px;
+    }
 }
 
 @media(max-width:475px) {
@@ -558,8 +578,16 @@ html {
     #for4u1 {
         margin-right: 75px;
     }
-
+    #toll{
+        width:300px;
+        padding-top:10px;
+    }
     #for4u2 {
         margin-left: 120px;
+    }
+    #mousumi{
+        padding: 100px 0px 60px;
+        height: 300px;
+        margin: 80px 0px;
     }
 }
