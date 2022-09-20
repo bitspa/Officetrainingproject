@@ -1,0 +1,36 @@
+
+.modal {
+   
+    background-color:white;
+    width: 600px;
+    max-width:100%;
+    padding:30px 50px;
+    text-align: center;
+    border-radius:5px;
+    margin:auto;
+  }
+  .modal-content  {
+    background-color: #f79d9d;
+    margin: 15% auto; 
+    padding: 20px;
+    border: 1px solid #888;
+    height:100%;
+    width: 100%;
+  }
+  .modal-content p{
+    opacity:0.7;
+
+  }
+  .close {
+    color: rgb(18, 18, 18);
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+  }
+  
+  .close:hover,
+  .close:focus {
+    color: rgb(251, 15, 15);
+    text-decoration: none;
+    cursor: pointer;
+  }
