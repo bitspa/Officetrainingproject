@@ -4,11 +4,12 @@ let resetBtn = document.getElementById('reset');
 let form = document.getElementById('form');
 
 // Form Refresh State
-if (localStorage.length > 0 ){
-    alert("You are already logged in..")
-}
-else {
+if (localStorage.getItem("name") === null) {
     alert("You need to log in")
+  }
+  
+else {
+    alert("You are already logged in")  
 }
 //Now Working For Reset Btn
 resetBtn.addEventListener('click', (e) => {
