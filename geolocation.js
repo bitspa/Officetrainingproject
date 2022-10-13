@@ -27,19 +27,11 @@ google.maps.event.addListener(map, 'click', function(event) {
 });
 function placeMarker(location) {
 
-    if (marker == null)
-    {
-          marker = new google.maps.Marker({
-             position: location,
-             map: map
-          }); 
-    } 
-    else 
-    {
-        marker.setPosition(location),
-        marker.setTitle("Your New Position is...");
-    } 
-}
+    if(marker!=null)
+        {
+            marker.setPosition(location),
+            marker.setTitle("You are in your new location")
+        }
       }
     </script>
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAxQmjJcC2qZjVC7g7ROAS3t2pmIfVTdaI&callback=initMap"
