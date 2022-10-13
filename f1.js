@@ -11,22 +11,11 @@ if (localStorage.getItem("name") === null) {
 else {
     alert("You are already logged in")  
 }
-//Now Working For Reset Btn
+//Reset Btn
 resetBtn.addEventListener('click', (e) => {
-    let name = document.getElementById('name');
-    let email = document.getElementById('email');
-    let message = document.getElementById('message');
-
-    //Set Value
-    name = name.value;
-    localStorage.removeItem('name')
-
-    email = email.value;
-    localStorage.removeItem('email')
-
-    message = message.value;
-    localStorage.removeItem('message')
-
+    localStorage.removeItem('name');
+    localStorage.removeItem('email');
+    localStorage.removeItem('message');
     alert("Your History is deleted");
 });
 
