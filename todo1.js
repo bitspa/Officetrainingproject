@@ -15,14 +15,6 @@ function App() {
     });
     setInputList("");
   };
-  const deleteItems=(id)=>{
-    console.log('deleted');
-    setItems((oldItems)=>{
-      return oldItems.filter((arrElem,index)=>{
-         return index!==id;
-      });
-    })
-  }   
   return (
     <> 
  <div className="main_div">
@@ -36,7 +28,7 @@ function App() {
       {/* <li>{inputList}</li> */}
           {Items.map((itemval,index)=>{
           return <TodoList key ={index} id={index} text ={itemval} 
-          onSelect={deleteItems}/>
+          />
           })}
     </ol> 
  </div>
