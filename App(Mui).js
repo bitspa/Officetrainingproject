@@ -1,11 +1,12 @@
-import React from 'react';
+import React,{Component} from 'react';
 import Login from './components/Loginform/Loginform';
-function App() {
+export class App extends Component {
+  render(){
   return (
     <div className="App">
       <Login />
     </div>
   );
 }
-
+  }
 export default App;
