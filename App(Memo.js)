@@ -1,0 +1,12 @@
+import React from "react";
+import './App.css';
+import MemoTutorial from './Components/UseMemo'
+
+function App() {
+  return (
+    <>
+ <MemoTutorial/>
+</>
+  );
+}
+export default App;
